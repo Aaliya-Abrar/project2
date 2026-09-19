@@ -1,2 +1,2 @@
-# from vs to github
+# From vs to github
 This project is created from local system
